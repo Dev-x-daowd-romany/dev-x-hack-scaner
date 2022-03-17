@@ -25,7 +25,7 @@ Instalation
 =
 Dependencies will be automatically installed.
 
-    git clone https://github.com/LionSec/dev-x-hack-scaner
+    git clone https://github.com/Dev-x-daowd-romany/dev-x-hack-scaner
     cd dev-x-hack-scaner && sudo python install.py
     sudo dev-x-hack-scaner
     sudo apt-get install 2to3
